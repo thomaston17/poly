@@ -2,4 +2,4 @@
 
 Description:
 
-A simple UI Kit for everyone to share and enjoy.
+A simple UI Kit.
